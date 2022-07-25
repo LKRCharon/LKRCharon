@@ -8,6 +8,9 @@
 <table>
 <tr>
 <td valign="top" width="50%">
+<!-- waka-box start -->
+<!-- waka-box end -->
+
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
 
 </td>
@@ -23,6 +26,9 @@
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+[powered by steam-box](https://github.com/YouEclipse/steam-box)
+
 </td>
 </tr>
 </table>
