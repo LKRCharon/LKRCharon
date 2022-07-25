@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
 
-<table>
+<table style="margin-top:0.5rem">
 <tr>
 <td valign="top" width="50%">
 
