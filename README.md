@@ -30,7 +30,7 @@ Still Gathering Statistics...
 ```text
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 The Binding of Isaac: Rebirth    🕘 56 hrs 40 mins
+🎮 The Binding of Isaac: Rebirth    🕘 58 hrs 11 mins
 🎮 Hollow Knight                    🕘 46 hrs 13 mins
 🎮 Celeste                          🕘 44 hrs 27 mins
 ```
