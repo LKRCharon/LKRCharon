@@ -29,8 +29,8 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/c99b3abaef51c164c9f95731c844c9a7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
+🎮 The Binding of Isaac: Rebirth    🕘 63 hrs 50 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 The Binding of Isaac: Rebirth    🕘 62 hrs 49 mins
 🎮 Hollow Knight                    🕘 46 hrs 13 mins
 🎮 Celeste                          🕘 44 hrs 27 mins
 ```
