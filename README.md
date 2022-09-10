@@ -35,7 +35,7 @@ Other       🕓 13m  █░░░░░░░░░░░░░░░░░░�
 🎮 The Binding of Isaac: Rebirth    🕘 120 hrs 26 mins
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 Hollow Knight                    🕘 46 hrs 53 mins
+🎮 Hollow Knight                    🕘 47 hrs 53 mins
 🎮 Celeste                          🕘 44 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
