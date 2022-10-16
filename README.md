@@ -36,7 +36,7 @@ Markdown 🕓 38m    ▉░░░░░░░░░░░░░░░░░░�
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Hollow Knight                    🕘 68 hrs 8 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 Celeste                          🕘 44 hrs 42 mins
+🎮 Celeste                          🕘 45 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
