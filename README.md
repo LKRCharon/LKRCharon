@@ -32,7 +32,7 @@ Markdown 🕓 38m    ▉░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/c99b3abaef51c164c9f95731c844c9a7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 The Binding of Isaac: Rebirth    🕘 210 hrs 35 mins
+🎮 The Binding of Isaac: Rebirth    🕘 211 hrs 57 mins
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Hollow Knight                    🕘 68 hrs 8 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
