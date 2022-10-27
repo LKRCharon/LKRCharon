@@ -34,7 +34,7 @@ YAML       🕓 42m   ▊░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 The Binding of Isaac: Rebirth    🕘 224 hrs 58 mins
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
-🎮 Hollow Knight                    🕘 68 hrs 8 mins
+🎮 Hollow Knight                    🕘 68 hrs 11 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
 🎮 Celeste                          🕘 45 hrs 30 mins
 ```
