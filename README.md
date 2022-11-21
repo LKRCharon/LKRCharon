@@ -36,7 +36,7 @@ YAML      🕓 28m   █▏░░░░░░░░░░░░░░░░░�
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Hollow Knight                    🕘 69 hrs 44 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 Celeste                          🕘 45 hrs 30 mins
+🎮 Celeste                          🕘 45 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
