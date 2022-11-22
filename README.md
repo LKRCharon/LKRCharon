@@ -36,7 +36,7 @@ Bash      🕓 1h16m ██▌░░░░░░░░░░░░░░░░�
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Hollow Knight                    🕘 69 hrs 44 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 Celeste                          🕘 45 hrs 55 mins
+🎮 Celeste                          🕘 46 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
