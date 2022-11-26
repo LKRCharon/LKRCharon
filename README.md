@@ -34,7 +34,7 @@ Bash      🕓 44m   █▋░░░░░░░░░░░░░░░░░�
 ```text
 🎮 The Binding of Isaac: Rebirth    🕘 251 hrs 50 mins
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
-🎮 Hollow Knight                    🕘 69 hrs 45 mins
+🎮 Hollow Knight                    🕘 70 hrs 2 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
 🎮 Celeste                          🕘 46 hrs 41 mins
 ```
