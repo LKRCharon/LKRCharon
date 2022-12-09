@@ -36,7 +36,7 @@ CSV      🕓 0s    ░░░░░░░░░░░░░░░░░░░░
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
 🎮 Hollow Knight                    🕘 70 hrs 2 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
-🎮 Celeste                          🕘 46 hrs 41 mins
+🎮 Brotato                          🕘 46 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
