@@ -33,7 +33,7 @@ Text     🕓 0s  ▍░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 The Binding of Isaac: Rebirth    🕘 267 hrs 14 mins
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
-🎮 Hollow Knight                    🕘 79 hrs 50 mins
+🎮 Hollow Knight                    🕘 80 hrs 27 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
 🎮 Brotato                          🕘 49 hrs 35 mins
 ```
