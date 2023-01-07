@@ -30,7 +30,7 @@ JSON 🕓 1m ██████████████████████�
 ```text
 🎮 The Binding of Isaac: Rebirth    🕘 269 hrs 55 mins
 🎮 ELDEN RING                       🕘 102 hrs 45 mins
-🎮 Hollow Knight                    🕘 85 hrs 15 mins
+🎮 Hollow Knight                    🕘 85 hrs 53 mins
 🎮 Sekiro™: Shadows Die Twice       🕘 63 hrs 39 mins
 🎮 Brotato                          🕘 49 hrs 35 mins
 ```
