@@ -8,11 +8,9 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
 <br>
-<!--
 <table>
 <tr>
 <td valign="top" width="50%">
--->
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/dca6b3b1c8850dcd3c418823b9bee73b" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -22,9 +20,11 @@ Still Gathering Statistics...
 <!-- waka-box end -->
 
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
+</td>
+</tr>
+</table>
 
 <!--
-</td>
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
