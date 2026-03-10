@@ -1,58 +1,34 @@
 # Kairong Li
 
-CS Graduate Student · Zhejiang University
+CS Graduate Student @ Zhejiang University
 
-> Focused on **systems**, **ML infrastructure**, and **LLM evaluation** — building practical tooling that is robust, safe, and scalable.
+Focused on **systems**, **ML infrastructure**, and **LLM evaluation**.
 
----
+## About Me
 
-## About
+I build practical tools and infrastructure for large language models, with interests in **robustness**, **trustworthiness**, and **scalable evaluation**.
 
-I am a CS graduate student at Zhejiang University. My work centers on designing and implementing infrastructure for large language models, with an emphasis on evaluation quality, content trustworthiness, and production-grade robustness.
+My background spans both **systems engineering** and **ML research tooling**, including database systems, benchmarking frameworks, and LLM-related infrastructure.
 
-I enjoy bridging the gap between research ideas and usable systems — turning theoretical insights into tools that practitioners can rely on.
+## Interests
 
----
+- **ML Systems** — training / inference infrastructure, distributed workloads
+- **LLM Infrastructure** — evaluation, benchmarking, fine-tuning tooling
+- **AI Safety & Robustness** — trustworthy generation, adversarial robustness
+- **Systems Engineering** — database internals, storage, performance
 
-## Areas of Interest
+## Selected Work
 
-| Domain | Topics |
-|---|---|
-| ML Systems | Training infrastructure, serving pipelines, distributed compute |
-| LLM Infrastructure | Evaluation frameworks, prompt engineering, fine-tuning tooling |
-| AI Safety & Robustness | Adversarial robustness, trustworthy generation, alignment |
-| Systems Engineering | Database internals, storage engines, low-level performance |
+- **LLM watermark robustness benchmarking** — built scalable evaluation tooling for watermark attack/defense analysis
+- **Database system implementation** — implemented core components for storage, indexing, recovery, and concurrency control
 
----
-
-## Current Focus
-
-- Evaluation frameworks for large language models
-- Robustness and trustworthiness of generated content
-- Turning research prototypes into reliable, production-ready systems
-
----
-
-## GitHub Stats
-
-<a href="https://github.com/LKRCharon">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LKRCharon&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKRCharon&layout=compact&hide_border=true&theme=default" />
-</a>
-
----
-
-## Open to Opportunities
-
-I am actively looking for roles in:
+## Open to
 
 - Machine Learning Engineering
 - Research Engineering
 - Software Engineering (Systems / Infrastructure)
 
----
-
 ## Contact
 
-- **GitHub:** [@LKRCharon](https://github.com/LKRCharon)
-- **Email:** [kairong.li@zju.edu.cn](mailto:kairong.li@zju.edu.cn)
+- GitHub: <a href="https://github.com/LKRCharon">@LKRCharon</a>
+- Email: kairong.li@zju.edu.cn
